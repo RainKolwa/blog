@@ -70,6 +70,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/RainKolwa/rainkolwa.github.io
+  repo: https://github.com/RainKolwa/blog
   branch: gh-pages
   message: Site updated at {{ now('YYYY-MM-DD HH:mm:ss') }}
