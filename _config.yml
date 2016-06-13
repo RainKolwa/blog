@@ -71,5 +71,5 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/RainKolwa/rainkolwa.github.io
-  branch: master
+  branch: gh-pages
   message: Site updated at {{ now('YYYY-MM-DD HH:mm:ss') }}
