@@ -2,7 +2,7 @@
 title: checkbox checked没打勾
 id: 157
 categories:
-  - Magento
+  - Javascript
 date: 2015-02-27 12:11:42
 tags:
 ---
